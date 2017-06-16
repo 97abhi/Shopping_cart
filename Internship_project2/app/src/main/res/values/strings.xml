@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Internship_project</string>
+    <string name="facebook_app_id">1882424425350289</string>
+    <string name="sign_out">signOut</string>
+    <string name="signed_out">signedOut</string>
+    <string name="groccery_list">Groccery List</string>
+    <string-array name="groccery">
+        <item name="Broccoli"></item>
+        <item name="Carrots"></item>
+        <item name="Cauliflower"></item>
+        <item name="Corn"></item>
+        <item name="Cucumbers"></item>
+        <item name="Lettuce / Greens"></item>
+        <item name="Mushrooms"></item>
+        <item name="Onions"></item>
+        <item name="Potatoes"></item>
+        <item name="Spinach"></item>
+        <item name="Squash"></item>
+        <item name="Zucchini"></item>
+        <item name="Tomatoes"></item>
+
+    </string-array>
+</resources>
